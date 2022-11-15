@@ -18,6 +18,7 @@ Dr. Kadauke aims to promote clinician data literacy and data analysis skills usi
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (by Claus Wilke)
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [R Markdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [R/Medicine 101: Intro to R for Clinical Data](https://youtu.be/jTf_N5zX5wY) - a 2.5 hour introductory workshop to the R programming language designed for physicians and other healthcare workers taught at R/Medicine 2022 (by Stephan Kadauke, Patrick Mathias, Joe Rudolf)
 
 ## License
 
