@@ -1,22 +1,25 @@
 ---
-title: R Markdown Practice
+title: "R Markdown Practice"
+output:
+  html_document:
+    df_print: paged
 ---
 
 ## This is a level 2 header
 
 ### And this is a level 3 header
 
-It it easy to add plain text in R Markdown. You can also add styling:
+It it easy to add plain text in R Markdown.
 
+- This is an unordered list
 - This text is **bold**
 - This text is *italic*
+  - This is a second level sub-item on the list
 
 Place empty lines between paragraphs of text.
-
-Here's a link to [Google](https://www.google.com). Click to make sure it works!
 
 Here is a code chunk:
 
 ```{r}
-plot(fdeaths)
+plot(ldeaths)
 ```
