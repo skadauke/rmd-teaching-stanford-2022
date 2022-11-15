@@ -1,12 +1,12 @@
 # Breaking Up with Excel - How to Write Reproducible Reports with R Markdown
 
-This repository contains materials for a virtual lecture held for the UAMS Pathology Department on 07/14/2021. You can download the slides for the presentation by clicking [here](slides/20210714%20UAMS%20lecture.pptx?raw=true).
+This repository contains materials for a hybrid lecture held for the Stanford Pathology Department on 11/16/2022. You can download the slides for the presentation by clicking [here](slides/20221116%20Stanford%20R%20Markdown.pptx?raw=true).
 
 ## About the instructor
 
-Stephan Kadauke, MD, PhD is an Assistant Professor of Clinical Pathology and Laboratory Medicine and the Assistant Director of the Cell and Gene Therapy Lab of the Children’s Hospital of Philadelphia. He also leads the Cell and Gene Therapy Data Operations group, which aims to improve the care of children who receive Bone Marrow Transplants and other Cell and Gene Therapies. 
+Stephan Kadauke, MD, PhD is an Assistant Professor of Clinical Pathology and Laboratory Medicine and the Medical Director of Cell and Gene Therapy Informatics at the Children’s Hospital of Philadelphia. He is also the Assistant Director of the Cell and Gene Therapy Laboratory, which provides all cell therapy products to patients at CHOP.
 
-Dr. Kadauke aims to promote clinician data literacy and data analysis skills using the free and open-source [R statistical programming language](https://www.r-project.org/) and ecosystem. He created an [introductory curriculum](https://github.com/skadauke/intro-to-r-for-clinicians-chop) for teaching data science with R to physicians and other healthcare professionals. In a variety of renditions both in-person and online, he has taught the principles of data science with R to 500+ participants in this course over the past 4 years. He is also the Chair of the international [R/Medicine conference](https://r-medicine.org), which aims to promote the development and use of R based tools to improve clinical research and practice.
+Dr. Kadauke aims to promote clinician data literacy and data analysis skills using the free and open-source [R statistical programming language](https://www.r-project.org/) and ecosystem. He created an [introductory curriculum](https://github.com/skadauke/intro-to-r-for-clinicians-chop) for teaching data science with R to physicians and other healthcare professionals. In a variety of renditions both in-person and online, he has taught the principles of data science with R to 750+ participants in this course over the past 6 years. For the past 3 years, he was the Chair of the international [R/Medicine conference](https://r-medicine.org), which aims to promote the development and use of R based tools to improve clinical research and practice.
 
 ## Resources
 
